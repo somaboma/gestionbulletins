@@ -27,6 +27,7 @@
                 <li class="nav-item"><a class="nav-link" href="ajouterEleve.jsp">Ajouter Élève</a></li>
                 <li class="nav-item"><a class="nav-link" href="ajouterNote.jsp">Ajouter Note</a></li>
                 <li class="nav-item"><a class="nav-link" href="consulterBulletin.jsp">Consulter Bulletins</a></li>
+                <li class="nav-item"><a class="nav-link" href="listeEleves.jsp">Consulter liste des eleves</a></li>
             </ul>
         </div>
     </div>
